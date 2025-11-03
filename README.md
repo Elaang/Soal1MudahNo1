@@ -32,8 +32,8 @@ Khusus Volume, saya bikin spesial dari pada kriteria yang lain. Karena volume ad
 
 Just like that, for the **MAIN** quest. And, because i want to make it funny, i add some joke. Just check it out.
 
-Oh yes, i will give you the screenshot of the program.
+Oh yes, i will give you the screenshot of output programs.
 
 
-![test0](outputv0.png)
-![test1](outputv1.png)
+![Langsung volume](outputv0.png)
+![Gak langsung volume](outputv1.png)
